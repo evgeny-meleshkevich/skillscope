@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "slug": "synthetic-1",
+      "title": "Python Developer",
+      "company_name": "Synthetic Example Company",
+      "location": "Example location",
+      "description": "<p>Вымышленная демонстрационная вакансия, не данные площадки.</p><p>Required: Python, SQL and Docker. Nice to have: Kubernetes.</p>",
+      "tags": [
+        "Python",
+        "SQL"
+      ],
+      "remote": true,
+      "created_at": 1790856000,
+      "url": "https://example.org/synthetic-job/1"
+    },
+    {
+      "slug": "synthetic-2",
+      "title": "Data Engineer",
+      "company_name": "Synthetic Example Company",
+      "location": "Example location",
+      "description": "<p>Вымышленная демонстрационная вакансия, не данные площадки.</p><p>Required: Python, SQL, Airflow and Apache Spark.</p>",
+      "tags": [
+        "Python",
+        "Airflow"
+      ],
+      "remote": true,
+      "created_at": 1790856000,
+      "url": "https://example.org/synthetic-job/2"
+    },
+    {
+      "slug": "synthetic-3",
+      "title": "Data Analyst",
+      "company_name": "Synthetic Example Company",
+      "location": "Example location",
+      "description": "<p>Вымышленная демонстрационная вакансия, не данные площадки.</p><p>Required: SQL and Excel. Python is a plus.</p>",
+      "tags": [
+        "SQL",
+        "Excel"
+      ],
+      "remote": true,
+      "created_at": 1790856000,
+      "url": "https://example.org/synthetic-job/3"
+    },
+    {
+      "slug": "synthetic-4",
+      "title": "Frontend Developer",
+      "company_name": "Synthetic Example Company",
+      "location": "Example location",
+      "description": "<p>Вымышленная демонстрационная вакансия, не данные площадки.</p><p>Required: JavaScript, TypeScript and React.</p>",
+      "tags": [
+        "JavaScript",
+        "React"
+      ],
+      "remote": true,
+      "created_at": 1790856000,
+      "url": "https://example.org/synthetic-job/4"
+    },
+    {
+      "slug": "synthetic-5",
+      "title": "DevOps Engineer",
+      "company_name": "Synthetic Example Company",
+      "location": "Example location",
+      "description": "<p>Вымышленная демонстрационная вакансия, не данные площадки.</p><p>Required: Linux, Docker and Kubernetes. Terraform is a plus.</p>",
+      "tags": [
+        "Docker",
+        "Linux"
+      ],
+      "remote": true,
+      "created_at": 1790856000,
+      "url": "https://example.org/synthetic-job/5"
+    },
+    {
+      "slug": "synthetic-6",
+      "title": "Data Scientist",
+      "company_name": "Synthetic Example Company",
+      "location": "Example location",
+      "description": "<p>Вымышленная демонстрационная вакансия, не данные площадки.</p><p>Required: Python, statistics and machine learning.</p>",
+      "tags": [
+        "Python"
+      ],
+      "remote": true,
+      "created_at": 1790856000,
+      "url": "https://example.org/synthetic-job/6"
+    }
+  ]
+}
